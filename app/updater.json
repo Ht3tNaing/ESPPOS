@@ -1,6 +1,6 @@
 {
-  "versionCode":14,
-  "updateChangeDescription":"New Version 1.4.3 🔥\n- Tablet တွေနဲ့သုံးရင် အလျားလိုက် ဒေါင်လိုက်သုံးမရတာပြင်ပြီးပါပြီ။\n- Minor Improvements and minor bug fixes",
+  "versionCode":16,
+  "updateChangeDescription":"New Version 1.5.1 🔥\n- ငွေလွှဲငွေထုတ် ပေးရန်နှင့်ရရန်စာရင်းများ ထည့်လို့ရပြီ\n- မှားသွင်းမိပါက ဖျက်လို့ရပြီ\n- Minor Improvements and minor bug fixes",
   "updateLink":"https://play.google.com/store/apps/details?id=com.naing.esppos",
   "isForceUpdate":false
 }
