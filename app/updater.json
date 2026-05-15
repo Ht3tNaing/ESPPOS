@@ -1,6 +1,6 @@
 {
-  "versionCode":17,
-  "updateChangeDescription":"New Version 1.5.2 🔥\n- ဈေးရောင်းတဲ့နေရာမှာ အမျိုးအစားလိုက်တခါထဲကြည့်လို့ရပြီ\n- Sales မှာ Tablet အသုံးပြုသူတွေလည်း ဖုန်းလို Portrait mode နဲ့ အသုံးပြုနိုင်ပြီ\n- Sales မှာ Out of stock items တွေကိုဖျောက်ထားလို့ရပြီ \n- Minor Improvements and minor bug fixes",
+  "versionCode":19,
+  "updateChangeDescription":"New Version 1.5.4 🔥\n- New investment information for Sales \n- Minor Improvements and minor bug fixes",
   "updateLink":"https://play.google.com/store/apps/details?id=com.naing.esppos",
   "isForceUpdate":false
 }
