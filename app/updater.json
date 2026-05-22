@@ -1,6 +1,6 @@
 {
-  "versionCode":19,
-  "updateChangeDescription":"New Version 1.5.4 🔥\n- New investment information for Sales \n- Minor Improvements and minor bug fixes",
+  "versionCode":20,
+  "updateChangeDescription":"New Version 1.5.5 🔥\n- Cashier Mode ဖွင့်ပြီး ပြင်လို့ဖျက်လို့မရအောင်လုပ်လို့ရပြီ\n- ယူနစ်မတူတာတွေကို တခါတည်းရောင်းလို့ရပြီ \n- Minor Improvements and minor bug fixes",
   "updateLink":"https://play.google.com/store/apps/details?id=com.naing.esppos",
   "isForceUpdate":false
 }
