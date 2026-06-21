@@ -1,0 +1,8 @@
+{   
+    "key":"app_message",
+    "message":"Hello! Welcome to our app. We hope you have a great experience using it.",
+    "isPromo":false,
+    "promoLink":"https://t.me/esppos",
+    "buttonText":"Okay",
+    "hideDismissButton":false
+}
