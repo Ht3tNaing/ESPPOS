@@ -1,6 +1,6 @@
 {
-  "versionCode":20,
-  "updateChangeDescription":"New Version 1.5.5 🔥\n- Cashier Mode ဖွင့်ပြီး ပြင်လို့ဖျက်လို့မရအောင်လုပ်လို့ရပြီ\n- ယူနစ်မတူတာတွေကို တခါတည်းရောင်းလို့ရပြီ \n- Minor Improvements and minor bug fixes",
+  "versionCode":21,
+  "updateChangeDescription":"New Version 1.6.1 🔥\n- Local Network ချိတ်ဆက်ပြီး ငွေရှင်းကောင်တာအကန့်အသတ်မရှိ ချိတ်ဆက်လို့ရပြီ \n- ဈေးရောင်းဘောင်ချာဖွင့်လို့ရပြီ \n- ကုန်ပစ္စည်း Refund ပြန်လုပ်ပေးလို့ရပြီ \n- Minor Improvements and minor bug fixes",
   "updateLink":"https://play.google.com/store/apps/details?id=com.naing.esppos",
   "isForceUpdate":false
 }
