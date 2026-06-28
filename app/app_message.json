@@ -1,6 +1,6 @@
 {   
-    "key":"app_message",
-    "message":"Hello! Welcome to our app. We hope you have a great experience using it.",
+    "key":"app_guide",
+    "message":"ဆော့ဝဲ အသုံးပြုနည်း videos များကို Settings ထဲက Guide & FAQ မှာကြည့်ရှု့လေ့လာလို့ရပါတယ်ခင်ဗျာ။",
     "isPromo":false,
     "promoLink":"https://t.me/esppos",
     "buttonText":"Okay",
