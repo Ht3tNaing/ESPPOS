@@ -1,6 +1,6 @@
 {
-  "versionCode":24,
-  "updateChangeDescription":"New Version 1.7.1 🔥\n ကုန်ပစ္စည်း Expiry Date ထည့်လို့ရပြီ။\nပြေစာဖောင့်ချိန်ညှိလို့ရပြီ။\nအခြားပြောင်းလဲမှုများစွာပါဝင်သည်။",
+  "versionCode":25,
+  "updateChangeDescription":"New Version 1.7.2 🔥\nLocal Network Connection ကိုထပ်ပြီးအဆင့်မြှင့်ထားသည်။\nWallet တစ်ခုလုံးဖျက်လိုက်ရင်အကောင့်တွေမပျက်တာပြင်ပြီး။\nImproved stability and performance.",
   "updateLink":"https://play.google.com/store/apps/details?id=com.naing.esppos",
-  "isForceUpdate":false
+  "isForceUpdate":true
 }
