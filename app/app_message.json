@@ -1,8 +1,8 @@
 {   
-    "key":"app_guide",
-    "message":"ဆော့ဝဲ အသုံးပြုနည်း videos များကို Settings ထဲက Guide & FAQ မှာကြည့်ရှု့လေ့လာလို့ရပါတယ်ခင်ဗျာ။",
-    "isPromo":false,
-    "promoLink":"https://t.me/esppos",
+    "key":"tg_ch",
+    "message":"Telegram Channel ဖန်တီးထားပါတယ်။\n\nဒီ Channel မှာ ESP POS အတွက် အသစ်ထွက်လာတဲ့ Update များ၊ အသုံးပြုနည်းများ၊ Tips များကို အမြန်ဆုံးရနိုင်မှာဖြစ်ပါတယ်။\n\nTelegram Channel ကို Join ထားပေးပါခင်ဗျာ။",
+    "isPromo":true,
+    "promoLink":"https://t.me/espposchannel",
     "buttonText":"Okay",
     "hideDismissButton":false
 }
